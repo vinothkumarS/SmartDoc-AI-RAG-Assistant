@@ -1,0 +1,11 @@
+.venv/
+venv/
+.env
+**/.env
+__pycache__/
+*.pyc
+chroma_db/
+.vscode/
+AI_SmartDoc_Submission/
+*.zip
+app_backup.py
